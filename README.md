@@ -21,7 +21,6 @@ I develop production-grade tools across three domains: **financial intelligence*
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**StockAI**](https://github.com/JaysWebDev/StockAI) | Live trading intelligence dashboard with real-time scanners, cron-driven data pipelines, and multi-signal analysis. Built with domain expertise from years of buy-side operations. | `Python` `JavaScript` `HTML` |
-| [**competitive-intelligence-platform**](https://github.com/JaysWebDev/competitive-intelligence-platform) | Multi-source intelligence aggregation with PostgreSQL, Node.js, Kafka, and Kubernetes architecture. Designed for institutional-grade scalability. | `Node.js` `PostgreSQL` `Kafka` `Kubernetes` |
 
 ### 🏠 Real Estate & Property Tech
 
@@ -36,13 +35,12 @@ I develop production-grade tools across three domains: **financial intelligence*
 | [**llm-agent**](https://github.com/JaysWebDev/llm-agent) | Privacy-first AI orchestration using CrewAI + Ollama for offline-capable task automation. Role-based agents for research, analytics, and operations with a browser-based UI. | `Python` `Flask` `CrewAI` `LangChain` `Ollama` |
 | [**VidGen**](https://github.com/JaysWebDev/VidGen) | Text-to-video, image-to-video, and virtual character generation with a marketing automation agent for multi-platform content distribution (Instagram, TikTok, YouTube Shorts, Facebook, Twitter). | `Python` `Flask` `OpenCV` `Pillow` `JavaScript` |
 
-### 🛠️ Dev Tools & Learning
+### 🛠️ Dev Tools
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**personal-scraper-lab**](https://github.com/JaysWebDev/personal-scraper-lab) | Modular scraper framework with a BaseScraper architecture, a full CleaningEngine (phone normalization, address parsing, URL validation, regex), and Jupyter notebooks for interactive exploration. | `Python` `Jupyter` `BeautifulSoup` `Pandas` |
-| [**dev-tools**](https://github.com/JaysWebDev/dev-tools) | Practical utility toolkit: networking diagnostics, system administration helpers, and development workflow tools. | `Python` |
-| [**JaysWebDev.github.io**](https://github.com/JaysWebDev/JaysWebDev.github.io) | Personal portfolio site — live at [jayswebdev.github.io](https://jayswebdev.github.io) | `HTML` `CSS` |
+| [**dev-tools**](https://github.com/JaysWebDev/dev-tools) | 20+ tools across networking, system admin, AI appliances, web scraping, file management, and Chrome extensions. Includes HomeMind (local LLM appliance), automated cleanup scripts, and a local AI stack bootstrapper. | `Python` `bash` `JavaScript` |
 
 ---
 
@@ -54,8 +52,8 @@ I develop production-grade tools across three domains: **financial intelligence*
 | **Frameworks** | Flask · React · Express · LangChain · CrewAI |
 | **Data & AI** | Ollama · OpenCV · Pandas · Jupyter |
 | **Databases** | MySQL · PostgreSQL · SQLite · Drizzle ORM |
-| **Infrastructure** | AWS S3 · Kafka · Kubernetes · Vite · tRPC |
-| **Dev Tools** | Claude Code · Git · Linux (Ubuntu) · Node.js |
+| **Infrastructure** | AWS S3 · Vite · tRPC · Linux (Ubuntu) · systemd |
+| **Dev Tools** | Claude Code · Git · Node.js |
 
 ---
 
