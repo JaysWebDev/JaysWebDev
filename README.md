@@ -4,6 +4,8 @@
 
 Former Investment Operations Manager at [Man Group](https://www.man.com/) (Boston). MBA from Boston University Questrom School of Business. Now building at the intersection of finance, real estate, and AI.
 
+🌐 **[jays.website](https://jays.website)**
+
 ---
 
 ## 🔧 What I Build
