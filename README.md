@@ -27,7 +27,7 @@ I develop production-grade tools across three domains: **financial intelligence*
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**landlord-app**](https://github.com/JaysWebDev/landlord-app) | End-to-end landlord tooling: tenant & lease management, maintenance tracking, financial reporting with charts, document storage (AWS S3), Google Maps integration, voice transcription, and AI-powered assistance. | `React 19` `TypeScript` `tRPC` `Drizzle ORM` `MySQL` `AWS S3` |
-| [**powerwash-directory**](https://github.com/JaysWebDev/powerwash-directory) | Local service marketplace connecting customers with pressure washing businesses. Zip-based provider matching, structured lead capture, admin panel, and Supabase backend. VPS deployment configs included. | `Next.js 15` `TypeScript` `Tailwind CSS` `Supabase` `SQLite` |
+| [**powerwash-directory**](https://github.com/JaysWebDev/powerwash-directory) | Live service marketplace at [find.outdoorwashing.com](https://find.outdoorwashing.com) — 1,445 companies across 20 city pages. Zip-based provider matching, lead capture, and admin panel. | `Next.js 15` `TypeScript` `Tailwind CSS` `Supabase` `SQLite` |
 
 ### 🤖 AI & Automation
 
