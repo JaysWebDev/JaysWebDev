@@ -27,12 +27,14 @@ I develop production-grade tools across three domains: **financial intelligence*
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**landlord-app**](https://github.com/JaysWebDev/landlord-app) | End-to-end landlord tooling: tenant & lease management, maintenance tracking, financial reporting with charts, document storage (AWS S3), Google Maps integration, voice transcription, and AI-powered assistance. | `React 19` `TypeScript` `tRPC` `Drizzle ORM` `MySQL` `AWS S3` |
+| [**powerwash-directory**](https://github.com/JaysWebDev/powerwash-directory) | Local service marketplace connecting customers with pressure washing businesses. Zip-based provider matching, structured lead capture, admin panel, and Supabase backend. VPS deployment configs included. | `Next.js 15` `TypeScript` `Tailwind CSS` `Supabase` `SQLite` |
 
 ### 🤖 AI & Automation
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**llm-agent**](https://github.com/JaysWebDev/llm-agent) | Privacy-first AI orchestration using CrewAI + Ollama for offline-capable task automation. Role-based agents for research, analytics, and operations with a browser-based UI. | `Python` `Flask` `CrewAI` `LangChain` `Ollama` |
+| [**llm-training-lab**](https://github.com/JaysWebDev/llm-training-lab) | LoRA/QLoRA fine-tuning toolkit for open LLMs. Config-driven training, BLEU/ROUGE/perplexity evaluation, evolutionary hyperparameter search, and a FastAPI proposal review dashboard. | `Python` `HuggingFace` `PEFT` `bitsandbytes` `FastAPI` |
 | [**VidGen**](https://github.com/JaysWebDev/VidGen) | Text-to-video, image-to-video, and virtual character generation with a marketing automation agent for multi-platform content distribution (Instagram, TikTok, YouTube Shorts, Facebook, Twitter). | `Python` `Flask` `OpenCV` `Pillow` `JavaScript` |
 
 ### 🛠️ Dev Tools
@@ -40,7 +42,7 @@ I develop production-grade tools across three domains: **financial intelligence*
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**personal-scraper-lab**](https://github.com/JaysWebDev/personal-scraper-lab) | Modular scraper framework with a BaseScraper architecture, a full CleaningEngine (phone normalization, address parsing, URL validation, regex), and Jupyter notebooks for interactive exploration. | `Python` `Jupyter` `BeautifulSoup` `Pandas` |
-| [**dev-tools**](https://github.com/JaysWebDev/dev-tools) | 20+ tools across networking, system admin, AI appliances, web scraping, file management, and Chrome extensions. Includes HomeMind (local LLM appliance), automated cleanup scripts, and a local AI stack bootstrapper. | `Python` `bash` `JavaScript` |
+| [**dev-tools**](https://github.com/JaysWebDev/dev-tools) | 20+ tools across networking, system admin, AI appliances, web scraping, file management, and Chrome extensions. Includes HomeMind (local LLM appliance), USB recovery walkthrough, automated cleanup scripts, and WiFi network scanner. | `Python` `bash` `JavaScript` |
 
 ---
 
@@ -49,11 +51,11 @@ I develop production-grade tools across three domains: **financial intelligence*
 | Domain | Technologies |
 |--------|-------------|
 | **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Frameworks** | Flask · React · Express · LangChain · CrewAI |
-| **Data & AI** | Ollama · OpenCV · Pandas · Jupyter |
-| **Databases** | MySQL · PostgreSQL · SQLite · Drizzle ORM |
-| **Infrastructure** | AWS S3 · Vite · tRPC · Linux (Ubuntu) · systemd |
-| **Dev Tools** | Claude Code · Git · Node.js |
+| **Frameworks** | Flask · React · Next.js · LangChain · CrewAI |
+| **AI/ML** | HuggingFace Transformers · PEFT · Ollama · OpenCV · Pandas |
+| **Databases** | MySQL · PostgreSQL · SQLite · Supabase · Drizzle ORM |
+| **Infrastructure** | AWS S3 · systemd · Tailscale · Cloudflare Tunnels · Linux (Ubuntu) |
+| **Dev Tools** | Claude Code · Git · Node.js · Jupyter |
 
 ---
 
