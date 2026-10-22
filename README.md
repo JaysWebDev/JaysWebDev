@@ -63,6 +63,6 @@ I develop production-grade tools across three domains: **financial intelligence*
 
 - 🏦 11+ years in institutional investment operations (State Street → Man Group)
 - 🎓 MBA, Boston University Questrom School of Business
-- 🏠 Real estate investor & PropTech builder (KJK Group)
+- 🏠 Real estate investor & PropTech builder
 - 📊 Active trader — quantitative signals, options strategies, multi-timeframe analysis
 - 🤖 Google AI Certified · Building AI tools since 2024
